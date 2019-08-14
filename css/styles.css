@@ -36,14 +36,14 @@ body {
   border: 1px solid #666;
 }
 
-/*.signup__field {
-	width:120%;
-	text-align:center;
-	margin-left:-10%;
-	height:560px;
+.signup__field {
+  width: 120%;
+  text-align: center;
+  margin-left: -10%;
+  height: 560px;
 }
 
-label {
+/*label {
 	background:#777;
 	height:450px;
 	margin-top:-300px;
