@@ -1,3 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  background-image: linear-gradient(to right bottom, #4e4e4e, #404040, #333333, #262626, #1a1a1a);
+  background-size: 600% 600%;
+  min-height: 100%;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #ccc;
+  padding-bottom: 50px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,18 +34,6 @@
   height: 1.5em;
 }
 
-body {
-	font-family: sans-serif;
-	margin:0;
-	background-image:linear-gradient(to right bottom, #4e4e4e, #404040, #333333, #262626, #1a1a1a);
-	background-size:600% 600%;
-	min-height:100%;
-	font-weight:bold;
-	letter-spacing:1px;
-	text-align:center;
-	color:#ccc;
-	padding-bottom:50px;
-}
 
 .form {
 	margin:20px auto 30px;
