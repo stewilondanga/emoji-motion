@@ -43,10 +43,10 @@ body {
   height: 560px;
 }
 
-/*label {
-	background:#777;
-	height:450px;
-	margin-top:-300px;
+label {
+  background: #777;
+  height: 450px;
+  margin-top: -300px;
 }
 
 /* Checkbox */
