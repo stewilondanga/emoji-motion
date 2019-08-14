@@ -50,16 +50,17 @@ label {
 }
 
 /* Checkbox */
-/*
-[type=checkbox] {visibility:hidden;}
-
- input[type=checkbox] + label{
-	display:block;
-	cursor:pointer;
-	font-size:18em;
+[type=checkbox] {
+  visibility: hidden;
 }
 
- input[type=checkbox] + label:after{
+input[type=checkbox]+label {
+  display: block;
+  cursor: pointer;
+  font-size: 18em;
+}
+
+/* input[type=checkbox] + label:after{
 	display:block;
 	cursor:pointer;
 	line-height:.3em;
